@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameInADay_Test",
+			"Path": "C:\\Users\\kdcli\\Documents\\Unreal Projects\\GameInADay_Test\\Source\\GameInADay_Test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameInADay_TestEditor",
+			"Path": "C:\\Users\\kdcli\\Documents\\Unreal Projects\\GameInADay_Test\\Source\\GameInADay_TestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

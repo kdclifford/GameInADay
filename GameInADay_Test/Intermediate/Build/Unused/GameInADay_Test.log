@@ -1,0 +1,11 @@
+﻿  Building GameInADay_TestEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] MoveFloor.cpp
+    [2/4] UE4Editor-GameInADay_Test.lib
+       Creating library C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\UE4Editor-GameInADay_Test.lib and object C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\UE4Editor-GameInADay_Test.exp
+    [3/4] UE4Editor-GameInADay_Test.dll
+       Creating library C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\UE4Editor-GameInADay_Test.suppressed.lib and object C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\UE4Editor-GameInADay_Test.suppressed.exp
+    [4/4] GameInADay_TestEditor.target
+  Total time in Parallel executor: 253.04 seconds
+  Total execution time: 261.80 seconds

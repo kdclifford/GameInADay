@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameInADay_Test.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A3CDC6C6-9C0C-48E3-BF35-D51C80088DC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameInADay_Test.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameInADay_TestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D06A8BAA-4B5A-4891-B77E-E075B450ECB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GameInADay_Test">
+      <UniqueIdentifier>{1E280D6C-6886-4AEF-A98E-9F025FFEF3B8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameInADay_Test\BasicBlock.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\BasicBlock.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay_Test\BasicCharacter.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\BasicCharacter.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GameInADay_Test\GameInADay_Test.Build.cs">
+      <Filter>Source\GameInADay_Test</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameInADay_Test\GameInADay_Test.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\GameInADay_Test.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay_Test\GameInADay_TestGameModeBase.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\GameInADay_TestGameModeBase.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay_Test\Moveable_Wall.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\Moveable_Wall.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay_Test\MoveFloor.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\MoveFloor.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay_Test\WallAIController.cpp">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay_Test\WallAIController.h">
+      <Filter>Source\GameInADay_Test</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

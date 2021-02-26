@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GameInADay_Test.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\GameInADay_TestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\BasicBlock.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\BasicCharacter.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\GameInADay_Test.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\GameInADay_TestGameModeBase.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\Moveable_Wall.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\MoveFloor.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\WallAIController.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\BasicBlock.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\BasicCharacter.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\GameInADay_Test.init.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\GameInADay_TestGameModeBase.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\Moveable_Wall.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\MoveFloor.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\WallAIController.gen.cpp.obj"
+"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\Default.rc2.res"
+/OUT:"C:\Users\kdcli\Documents\Unreal Projects\GameInADay_Test\Intermediate\Build\Win64\UE4Editor\Development\GameInADay_Test\UE4Editor-GameInADay_Test.lib"
+/INCLUDE:IMPLEMENT_MODULE_GameInADay_Test
